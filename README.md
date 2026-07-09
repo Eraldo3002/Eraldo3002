@@ -1,16 +1,35 @@
-## Hi there 👋
+# Eraldo Alves Pereira Filho
 
-<!--
-**Eraldo3002/Eraldo3002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação (5º período) residente em Recife, PE. Atuo com foco no desenvolvimento de automações, gerenciamento de dados e suporte a infraestrutura de TI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Competências Técnicas
+
+- **Linguagens de Programação:** Python, JavaScript (Node.js)
+- **Bancos de Dados & Estruturação:** MySQL, JSON
+- **Desenvolvimento Frontend:** React, HTML5, CSS3
+- **Infraestrutura & Suporte:** Redes (TCP/IP), Manutenção de Hardware, Helpdesk
+- **Sistemas Operacionais:** Windows, Linux
+
+---
+
+## 📌 Projetos em Destaque
+
+- **Automação de Processos (Python):** Desenvolvimento de scripts utilitários voltados para a otimização de rotinas e tratamento de arquivos estruturados.
+- **CLI Inventory System (Node.js & MySQL):** Sistema de gerenciamento de inventário via terminal integrado a banco de dados relacional.
+- **Interface Interativa (React):** Aplicação frontend dinâmica baseada na manipulação e arrasto de componentes em tempo real.
+
+---
+
+## 🎓 Idiomas e Certificações
+
+- **Inglês:** Fluente — Cambridge English Level 2 Certificate (C1)
+- **Português:** Nativo
+
+---
+
+## ✉️ Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/eraldo-alves-filho
+- **E-mail:** eraldoalves715@gmail.com
